@@ -1,4 +1,4 @@
-DevOps Project - Kastro
+DevOps Project 
 Deployment of ZOMATO Project
 --------------------------------------------
 Repo URL: https://github.com/hillaryoyaro/ZOMATO-Clone-App-Deployment
